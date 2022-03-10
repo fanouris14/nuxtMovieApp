@@ -1,6 +1,7 @@
 # Nuxt Movie App
 ## Instructions
 
+docker is required
 
 Terminal commands:
 ```sh
